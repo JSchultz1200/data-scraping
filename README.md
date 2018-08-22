@@ -1,5 +1,5 @@
 
-#Easy Data Scraping Utils
+# Easy Data Scraping Utils
 
 Requires Perl and bash. Data scraping may violate the law and risk you personal litigation. Be smart.
 
