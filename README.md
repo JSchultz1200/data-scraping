@@ -6,14 +6,12 @@ Requires Perl and bash. Data scraping may violate the law and risk you personal 
 
 crawl.sh 
 
-Downloads your pages into one huge html document.
+> Downloads your pages into one huge html document.
 
 
 continueCrawl.sh
 
-If your download gets cancelled you can use this to
-continue it after you parse out the list of links
-not downloaded.
+> If your download gets cancelled you can use this to continue it after you parse out the list of links not downloaded.
 
 
 link-extractor.pl - Extract only html a href tag links.
@@ -21,6 +19,7 @@ link-extractor.pl - Extract only html a href tag links.
 parse-dates.pl - Extract the dates.
 
 parse-headlines.pl - Extract headline code by regex.
+
 
 
 parseMessageToDB.pl - Extract all "messages" (user comments) from a file and return a series of SQL insert statements.
